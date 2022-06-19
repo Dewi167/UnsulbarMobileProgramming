@@ -4,7 +4,7 @@ class Mahasiswa:
         self.nim = inputNim
         self.angkatan = inputAngkatan
 
-Teknik1 = Mahasiswa("Kiki Malinda", "D0219340", 2019)
+Teknik1 = Mahasiswa("Dewi Nurliana", "D0219406", 2019)
 Sipil1 = Mahasiswa("Fitri", "F0118933", 2018)
 
 print (Teknik1.nama)
