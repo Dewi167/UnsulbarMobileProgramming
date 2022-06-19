@@ -4,7 +4,7 @@ class mahasiswa():
     def __init__(self, input_nama):
         self.nama = input_nama # public
  
-kiki = mahasiswa("Dewi Nurliana")
+dewi = mahasiswa("Dewi Nurliana")
  
 print(mahasiswa.jurusan)
-print(kiki.jurusan)
+print(dewi.jurusan)
