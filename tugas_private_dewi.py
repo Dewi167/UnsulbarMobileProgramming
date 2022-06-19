@@ -1,4 +1,3 @@
-#kiki malinda_D0219340
 class private():
     __items = 4 # private
  
